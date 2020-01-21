@@ -1,0 +1,62 @@
+
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  position: relative;
+  left: 450px;
+  bottom: 30px;
+}
+ th, td{
+  padding: 25px;
+  border: 1px solid black;
+}
+th{
+  background-color: rgb(255, 0, 0);opacity:0.8;
+  border: 1px solid black;
+}
+h1{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+
+}
+h3{
+  font-family: 'Raleway';
+  font-weight: 600;
+}
+p{
+  font-family: 'Raleway', sans-serif;
+}
+li {
+  font-family: 'Raleway', sans-serif;
+  font-style: italic;
+}
+.heading{
+  position: relative;
+  left: 500px;
+  bottom: 30px;
+}
+.heading2{
+  position: relative;
+  left: 600px;
+  bottom: 30px;
+}
+.image{
+  position: relative;
+  left: 450px;
+  bottom: 30px;
+  height:420px;
+  width:500px;
+}
+.Top5{
+  position: relative;
+  left: 575px;
+  bottom: 30px;
+}
+.festivals{
+  list-style-type: upper-roman;
+  color: rgb(255, 0, 0);
+  position: relative;
+  left: 500px;
+  bottom: 30px;
+}
